@@ -117,6 +117,7 @@ form {
 }
 
 .successDiv {
+  margin-top: 5px;
   opacity: .4;
   background-color: green;
   display: flex;
