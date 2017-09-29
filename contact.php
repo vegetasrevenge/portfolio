@@ -60,7 +60,7 @@ if(!empty($_POST['submitted'])) {
   </head>
   <body>
       <nav>
-        <h3><a href="home.html">Home</a></h3>
+        <h3><a href="index.html">Home</a></h3>
         <h3><a href="about.html">About</a></h3>
         <h3><a href="contact.php">Contact</a></h3>
       </nav>
