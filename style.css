@@ -81,16 +81,12 @@ a:visited {
 
 }
 
-.img {
+#img1 {
+  background-image: url(assets/meteorites.png);
   flex-basis: 50%;
-  background-image: url(assets/javaImg.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
-}
-
-#img1 {
-  background-image: url(assets/meteorites.png);
 }
 
 .img a {
