@@ -89,6 +89,10 @@ a:visited {
   background-position: center;
 }
 
+#img1 {
+  background-image: url(assets/meteorites.png);
+}
+
 .img a {
   height: 100%;
   display: block;
